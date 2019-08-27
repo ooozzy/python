@@ -1,4 +1,4 @@
-# https://s.taobao.com/search?q=游戏&s=0     b = html.decode('utf-8','ignore')
+
 import os
 import re
 import requests
